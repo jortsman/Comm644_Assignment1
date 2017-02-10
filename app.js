@@ -1,10 +1,10 @@
 //Step 1
 /*
 var someMonth;
-function theMonth;
-curentMonth;
-var summerMonth;
-mylibraryAFunction;
+functionCurrentMonth;
+constCurentMonth;
+var arraySummerMonths;
+functionMylibrary;
 */
 
 //Step 2
